@@ -1,0 +1,23 @@
+table{
+	width:800px;
+	height:800px;
+	border:1px;
+	border-collapse: collapse;
+}
+
+div{
+	background-color: #fff;
+	height: 50px;
+	width: 50px;
+}
+
+.fill{
+	background-color:#000;
+}
+
+#wrapper{
+	background-color: #ff5050;
+	height: 834px;
+	width: 834px;
+	float: auto;
+}
