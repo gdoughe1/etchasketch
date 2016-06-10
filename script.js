@@ -11,4 +11,7 @@ $(document).ready(function(){
 	$("div").mouseenter(function(){
 		$(this).addClass("fill");
 	});
+	$("button").click(function(){
+		$("div").removeClass("fill");
+	});
 });
