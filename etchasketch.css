@@ -5,7 +5,7 @@ table{
 	border-collapse: collapse;
 }
 
-div{
+.inner{
 	background-color: #fff;
 	height: 50px;
 	width: 50px;
@@ -15,9 +15,6 @@ div{
 	background-color:#000;
 }
 
-#wrapper{
-	background-color: #ff5050;
-	height: 834px;
-	width: 834px;
-	
+td{
+background-color: #ff5050;
 }
